@@ -18,32 +18,32 @@ I'm also interested in building some web applications using the MERN stack some 
 
 ## Projects
 
-Here are some of the projects I’m working on / planning. Some are in early development, while others are on my backlog.
+Here are some of the projects I’m working on / planning ordered by priority. Some are in early development, while others are on my backlog.
 
 
-### MyReadingList app (provisional title)
+### MyReadingList (provisional title)
 
 A book tracking and review app where users can add **in-page notes** for their friends to see their thoughts as they read. It also allows users to organize their library with **current reads**, **future reads**, and **finished reads** lists, all with customizable titles.
 
 `Java` `Spring` `REST` `MySQL`
 
 
-### PokemonRoguelike (provisional title)
+### PokémonRoguelike (provisional title)
 
 A non-profit, hobby **web project** that I'm developing with a friend, inspired by the Pokémon franchise and the fan-made game [PokéRogue](https://github.com/pagefaultgames/pokerogue 'awesome game!').
 
 `Python` `HTML` `CSS` `TypeScript` `React` `Node.js` `REST` `MySQL`
 
 
-### A Rare Reforge System
-
-A [Terraria](https://terraria.wiki.gg/ 'awesome game!') **mod** that completely **overhauls the reforge system** by removing random rerolls and introducing an upgrade tree with unique mechanics.
-
-`C#` `.NET` `CIL`
-
-
-### Functional Calculator
+### Functional Calculator (provisional title)
 
 A fully functional **desktop calculator** capable of evaluating **complex mathematical expressions**, built following [_Crafting Interpreters_](https://craftinginterpreters.com/dedication.html) by Robert Nystrom.
 
 `C` `Compilers` `Algorithms`
+
+
+### 'A Rare Reforge System'
+
+A [Terraria](https://terraria.wiki.gg/ 'awesome game!') **mod** that completely **overhauls the reforge system** by removing random rerolls and introducing an upgrade tree with unique mechanics.
+
+`C#` `.NET` `CIL`
